@@ -1,6 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Dominika Wojewska",
+  "description": "A project to learn backend development and APIs from FreeCodeCamp curriculum.",
+  "keywords": [ "Node.js", "Express", "backend for frontend", "API", "npm", "freecodecamp" ],
   "dependencies": {
     "express": "^4.14.0"
   },
